@@ -6,4 +6,4 @@ TASK:<br/>
 Create a program to accept n a list of socks c1,c2,....cn<br/>
 Return the number of matching pairs John can sell<br/>
 
-// Good luck!
+// C++ Solution
